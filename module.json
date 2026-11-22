@@ -3,7 +3,7 @@
   "name": "real-estate-marketing-livewire",
   "display_name": "Real Estate Marketing Livewire",
   "description": "Livewire list component for team-scoped marketing campaigns.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "presentation",
   "provider": "Liberu\\RealEstate\\MarketingLivewire\\MarketingLivewireServiceProvider",
   "requires": {
